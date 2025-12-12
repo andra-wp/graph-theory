@@ -1,6 +1,6 @@
 # Penjelasan Program dan Formatting GitHub
 
-Dokumen ini menjelaskan alur kerja, cara penggunaan, serta mekanisme formatting otomatis pada GitHub untuk dua program Python yang terdapat pada repository ini, yaitu **Knight’s Tour** dan **Largest Increasing Subsequence (LIS)**. Seluruh dokumentasi ditulis menggunakan Markdown agar dapat dirender otomatis oleh GitHub.
+Dokumen ini menjelaskan alur kerja, cara penggunaan, serta mekanisme formatting otomatis pada GitHub untuk dua program Python yang terdapat pada repository ini, yaitu **Knight’s Tour** dan **Largest Increasing Subsequence (LMIS)**. Seluruh dokumentasi ditulis menggunakan Markdown agar dapat dirender otomatis oleh GitHub.
 
 ---
 
@@ -79,7 +79,7 @@ arr = [4, 1, 13, 7, 0, 2, 8, 11, 3]
 
 ```
 Panjang LIS: 4
-LIS: [1, 2, 8, 11]
+LMIS: [4, 7, 8, 11]
 
 ```
 
